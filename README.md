@@ -8,5 +8,7 @@
 ![PNG_minimal](TRX_minimal.png)
 # SVG minimal
 ![SVG_minimal](TRX_minimal.svg)
+# PNG noborder
+![PNG_noborder](TRX_noborder.png)
 # SVG noborder
 ![SVG_noborder](TRX_noborder.svg)
