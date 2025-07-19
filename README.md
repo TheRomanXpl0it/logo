@@ -12,3 +12,8 @@
 ![PNG_noborder](TRX_noborder.png)
 # SVG noborder
 ![SVG_noborder](TRX_noborder.svg)
+
+# PNG smooth
+![PNG_smooth](TRX_smooth.png)
+# SVG smooth (fixed with inkscape)
+![SVG_smooth](TRX_smooth.svg)
